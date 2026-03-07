@@ -147,7 +147,7 @@ AI • Quantum Computing • Intelligent Scientific Systems
 
 GitHub: https://github.com/srikth
 
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/srikanth-shanmugam
 
 >>References
 
