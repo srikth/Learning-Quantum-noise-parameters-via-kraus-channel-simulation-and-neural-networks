@@ -51,6 +51,7 @@ Matplotlib
 >. System Architecture
 
 Quantum State Preparation
+
           ↓
 Kraus Channel Simulation
           ↓
