@@ -54,12 +54,16 @@ Quantum State Preparation
 
           ↓
 Kraus Channel Simulation
+
           ↓
 Measurement Data Generation
+
           ↓
 Feature Encoding
+
           ↓
 Neural Network Training
+
           ↓
 Noise Parameter Estimation
 >> Methodology
